@@ -4,7 +4,7 @@ void setup()
   background(0);
   stroke(255);
 }
-
+//Poops
 void draw()
 {
   if(mousePressed)
