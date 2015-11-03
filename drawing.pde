@@ -1,8 +1,8 @@
 void setup()
 {
   size(500, 500);
-  background(255);
-  stroke(0);
+  background(0);
+  stroke(255);
 }
 
 void draw()
